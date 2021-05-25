@@ -1,0 +1,7 @@
+"Charizard"
+"Bulbasaur"
+"Ditto"
+"Pikachu"
+"Pichu"
+"Eevee"
+"MewTwo"
